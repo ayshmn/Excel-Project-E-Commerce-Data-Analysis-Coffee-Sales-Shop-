@@ -14,11 +14,11 @@ Provide actionable insights using Excel dashboards
 
 The dataset contains transactional coffee sales data with the following key fields:
 
-Order Date
-Product Name
-Product Category
-Quantity Sold
-Unit Price
+Order Date,
+Product Name,
+Product Category,
+Quantity Sold,
+Unit Price,
 Total Sales
 
 Store Location / Time-based attributes
