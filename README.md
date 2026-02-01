@@ -22,7 +22,6 @@ Unit Price
 Total Sales
 
 Store Location / Time-based attributes
-
 (Dataset sourced from a publicly available tutorial and analyzed for learning purposes.)
 
 🛠 Tools & Features Used
